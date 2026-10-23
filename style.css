@@ -38,6 +38,11 @@ nav ul {
     padding: 0;
 }
 
+nav li a {
+    text-decoration: none;
+    color: #000;
+}
+
 #tools {
     display: flex;
     flex-wrap: wrap;
